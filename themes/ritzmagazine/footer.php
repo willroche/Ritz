@@ -47,6 +47,7 @@
     
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 	<!--  comment -->
+	<!-- new comment -->
 
     <!-- SmartMenus jQuery plugin -->
     <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/jquery.smartmenus.js"></script>
