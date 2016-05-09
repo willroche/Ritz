@@ -35,7 +35,7 @@
 
 <div class="slice h-clearfix mobile-nav h-visible-sm">
 	<div class="faux-topbar">
-		<div class="top-bar">
+		<div class="top-bars">
 			<div class="f-col-4 l-padding">
 				<div class="ritz-button mob-menu-trig">☰ Menu</div>
 			</div>
